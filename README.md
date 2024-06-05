@@ -1,0 +1,1 @@
+Desenvolvi um jogo simples do Mario usando HTML, CSS e JavaScript. O Mario pode se mover, pular. Este projeto me ajudou a aprimorar minhas habilidades em JavaScript e manipulação do DOM. Estou animado para compartilhar e continuar melhorando o mini jogo!
